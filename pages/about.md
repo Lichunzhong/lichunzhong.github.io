@@ -17,39 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received the Ph.D. degree (advised by [Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm)) from the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn), Chengdu, China, in 2022. 
+- 李春忠，安徽财经大学统计与应用数学学院，数据科学系副教授，硕士生导师，中国投入产出与大数据研究会常务理事、全国工业统计学教学研究会人工智能与大数据技术专委会理事、全国工业统计学教学研究会青年统计学家协会理事会理事。研究领域与方向为机器学习与深度学习算法、大数据高性能计算、生物信息等方面的研究。
+
+- 李春忠老师长期从事人工智能算法（图神经网络、深度扩散模型、Transformer模型、对比学习、基于掩码机制的自监督学习、单细胞/空转大模型、矩阵张量分解等）及其应用研究。
 
 My current interests include high-dimensional image processing, machine learning and its theoretical foundations, tensor modeling and computing. 
 
-📢 <span style="color:blue">**My team admits 1\~2 PhD students and 7\~10 master’s students each year. In addition, we offer research training opportunities for undergraduate students who are interested in gaining hands-on research experience. Self-motivated students are welcome to join my team. Please feel free to contact me**.</span>
+📢 <font color="red"> 招生宣传</font>
 
-📧 E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; 🎓 Google Scholar: [citations 1000+](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)&emsp; 🏫[学校主页](https://faculty.swjtu.edu.cn/zhengyubang/zh_CN/index.htm)
+- 本人目前可以招收计算机相关专业的专硕、学硕，目前不考虑招生外籍学生
+- AI+数据挖掘的团队，不限定数据类型，挖掘的数据对象可包括：医学图像数据，生物组学数据，自然图像数据，网络结构数据等，不需要任何生物医学背景，专注于人工智能的新算法开发！！！
+- 招生要求: 坚持不懈的毅力（最看重的品质）；良好的编程、数学、英语能力
+- <font color="red"> 感兴趣的同学可以给我邮件(czhongli@163.com)；邮件内容包括如下信息：个人简历+本科成绩单+考研成绩+复试上机成绩。 </font>
 
-# 🔔 News
+# 🔔 最新学术动态
 
-<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optik</div><img src='images/callforpapers.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-*2023.07*: &nbsp; <span style="color:blue">**Call for papers**</span> — Optik Special Issue:
-
-[Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery](https://www.sciencedirect.com/journal/optik/about/call-for-papers#recent-trends-of-math-and-deep-modeling-in-multi-dimensional-image-recovery-theory-models-algorithms-and-applications-vsi-multi-dimensional-image-recovery)
-
-*Edited by* Xi-Le Zhao, Guo-Cheng Wu, Tai-Xiang Jiang, and **Yu-Bang Zheng**
-
-</div>
-</div>
--->
-- *2025.09*: &nbsp; Two papers are accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
-- *2025.09*: &nbsp; One paper is accepted by _**IEEE Transactions on Neural Networks and Learning Systems**_. 
-- *2025.08*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
-- *2025.07*: &nbsp; One paper is accepted by _**IEEE Transactions on Circuits and Systems for Video Technology**_. 
-- *2025.06*: &nbsp; One paper is accepted by _**Neural Networks**_. 
-- *2025.06*: &nbsp; One paper is accepted by _**IEEE Transactions on Big Data**_. 
-- *2025.05*: &nbsp; One paper is accepted by _**Pattern Recognition**_. 
-- *2025.04*: &nbsp; One paper is accepted by _**SIAM Journal on Scientific Computing**_.
-- *2025.02*: &nbsp; One paper is accepted by _**Signal Processing**_. 
-- *2024.12*: &nbsp; One paper is accepted by _**IEEE Transactions on Neural Networks and Learning Systems**_. 
-- *2024.10*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
+- 2025.10: &nbsp; One papers is accepted by _**2025 International Conference on Bioinformatics and Biomedicine (BIBM)**_. 
+- 2025.04: &nbsp; One papers is printed by _**Briefings in Bioinformatics**_. 
+- 2025.04: &nbsp; One paper is printed by _**2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)**_. 
+- *2025.10*: &nbsp; One paper is printed by _**工程数学学报**_. 
 
 
 # 🧰 Projects
@@ -59,15 +45,16 @@ My current interests include high-dimensional image processing, machine learning
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TenNet_ToolBox"><img src="https://yubangzheng.github.io/images/tennettoolbox.png" width="250"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TSVD_ToolBox"><img src="https://yubangzheng.github.io/images/tnntoolbox.png" width="250"></a>
 
-<!--
-
-# 📝 Preprints 
 
 
+# 📝 课程与博客
 
--->
+- [PyTorch 深度学习](https://blog.csdn.net/weixin_40234309/category_12167779.html)
+- [机器学习模型与实践](https://blog.csdn.net/weixin_40234309/category_12088843.html)
+- [智能计算算法设计](https://blog.csdn.net/weixin_40234309/category_12220879.html)
+- [高维数据的稀疏低秩表达](https://blog.csdn.net/weixin_40234309/category_12116221.html)
 
-# 📄 Publications 
+# 📄 Publications
 
 ## 2025
 
@@ -165,13 +152,10 @@ My current interests include high-dimensional image processing, machine learning
 
 # 📖 Educations
 
-- *2021.03-2022.12*: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP); Student trainee in Computer Science <br>
-   Supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io)
-- *2019.09-2022.12*: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics <br>
-  Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
-- *2017.09-2019.07*: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics <br>
-  Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
-- *2013.09-2017.07*: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science
+- *2007.09-2012.09*: Xi'an Jiaotong University (XJTU); Ph. D. student in Applied Mathematics ；Supervisor: [Prof. Zong-Ben Xu (徐宗本教授/中国科学院院士)](https://math.xjtu.edu.cn/szdw/zgkxyys.htm)
+- *2004.09-2007.07*: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics <br>
+   Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授/全国教学名师)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
+- *2000.09-2004.07*: LiaoCheng University (LCU); Bachelor student in Information and Computing Science
 
 # 💾 Fundings
 
@@ -184,7 +168,7 @@ My current interests include high-dimensional image processing, machine learning
 
 -  First Prize of Outstanding Paper in the Second Sichuan-Chongqing Science and Technology Conference (<span style="color:red">第二届川渝科技学术大会优秀论文一等奖, 排名第一</span>), Sichuan and Chongqing Associations for Science and Technology, 2021 [[news]](http://www.sckjw.com.cn/info/f10734c52b4b45a285d3fd4e4735d5a9)
 -  Second Prize of the Second Postgraduate Academic Forum of Journal of Image and Graphics (<span style="color:red">第二届中国图象图形学报研究生学术论坛二等奖
-</span>), Journal of Image and Graphics, 2022
+   </span>), Journal of Image and Graphics, 2022
 -  Excellent Graduate in Sichuan (四川省优秀毕业生), UESTC, 2023
 -  Wuliangye Innovation Scholarship (五粮液创新奖学金, 2万元), UESTC, 2021
 -  Academic Rookie (学术新秀), UESTC, 2021
@@ -230,6 +214,7 @@ My current interests include high-dimensional image processing, machine learning
 -  ... ...
 
 <!--
+
 -  Journal of Visual Communication and Image Representation, _Reviewer_
 -  Applied Mathematical Modeling, _Reviewer_
 -  Applied Mathematics and Computation, _Reviewer_
@@ -240,7 +225,8 @@ My current interests include high-dimensional image processing, machine learning
 -  Statistical Papers, _Reviewer_
 -  Journal of Computational Science, _Reviewer_
 -  ACML 2021, 2022, _Reviewer_
- -->
+   -->
+
 ## 🤝 Co-authors
 
 -  [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
@@ -249,7 +235,7 @@ My current interests include high-dimensional image processing, machine learning
 -  [Prof. Qing Zhu (朱庆教授)](https://faculty.swjtu.edu.cn/zhuqing/zh_CN/index.htm)
 -  [Prof. Qibin Zhao](https://qibinzhao.github.io)
 -  ... ...
-  
+
 <!-- 
 -  [Prof. Tai-Xiang Jiang (蒋太翔)](https://taixiangjiang.github.io)
 -  [Dr. Teng-Yu Ji (冀腾宇)](https://teacher.nwpu.edu.cn/tengyuji.html)
