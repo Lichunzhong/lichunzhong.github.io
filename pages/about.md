@@ -21,7 +21,6 @@ redirect_from:
 
 - 李春忠老师长期从事人工智能算法（图神经网络、深度扩散模型、Transformer模型、对比学习、基于掩码机制的自监督学习、单细胞/空转大模型、矩阵张量分解等）及其应用研究。
 
-My current interests include high-dimensional image processing, machine learning and its theoretical foundations, tensor modeling and computing. 
 
 📢 <font color="red"> 招生宣传</font>
 
