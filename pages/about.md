@@ -57,7 +57,7 @@ redirect_from:
 
 - **Chun-Zhong Li**, Xiao-Hua Yu, Xiao-Hua Wu, Bing Wang*, Tian-Yu Xia. "stDSGCL: Dual Spatially-Aware Graph Contrastive Learning for Identifying Spatial Domains in Spatial Transcriptomics",  will appear in BIBM 2025 （B1级）
 
-- Yang Gui, Zhaorui Tan, Yan Xu, **Chunzhong Li$^*$**, \"Heterogeneous graph contrastive learning for integration and alignment of spatial transcriptomics data", Briefings in Bioinformatics, Volume 26, Issue 5, September 2025, bbaf497. [[Website]](https://academic.oup.com/bib/article/26/5/bbaf497/8280091?login=false&utm_source=advanceaccess&utm_campaign=bib&utm_medium=email) [[Code]]( https://github.com/Lab-Xu/GRASS/) （A1级）
+- Yang Gui, Zhaorui Tan, Yan Xu, **Chunzhong Li$^*$**, \"Heterogeneous graph contrastive learning for integration and alignment of spatial transcriptomics data", Briefings in Bioinformatics, Volume 26, Issue 5, September 2025, bbaf497.（A1级）
 
 - **Chun-Zhong Li**, Shuo-Bing Zhou, Yang-Yang Kou, "Tensor low rank and noise intensity aware hyperspectral image denoising", IEEE IGARSS 2025. （B1级）
 
