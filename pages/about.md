@@ -24,17 +24,16 @@ redirect_from:
 
 📢 <font color="red"> 招生宣传</font>
 
-- 本人目前可以招收计算机相关专业的专硕、学硕
+- 招收统计、应用统计相关专业的专硕、学硕
 - AI+数据挖掘的团队，不限定数据类型，挖掘的数据对象可包括：医学图像数据，生物组学数据，自然图像数据，网络结构数据等，不需要任何生物医学背景，专注于人工智能的新算法开发！！！
 - 招生要求: 坚持不懈的毅力（最看重的品质）；良好的编程、数学、英语能力
+- 有计算机、大数据学习背景的同学优先
 - <font color="red"> 感兴趣的同学可以给我邮件(czhongli@163.com)；邮件内容包括如下信息：个人简历+本科成绩单+考研成绩+复试成绩。 </font>
 
 # 🔔 最新学术动态
 
-- 2025.10: &nbsp; One papers is accepted by _**2025 International Conference on Bioinformatics and Biomedicine (BIBM)**_. 
-- 2025.04: &nbsp; One papers is printed by _**Briefings in Bioinformatics**_. 
-- 2025.04: &nbsp; One paper is printed by _**2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)**_. 
-- *2025.10*: &nbsp; One paper is printed by _**工程数学学报**_. 
+- 2026.08: &nbsp; One paper is printed by _**2026 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)**_.
+- 2026.04: &nbsp; One papers is accepted by _**iScience(CellPress)**_. 
 
 
 # 🧰 Projects
@@ -55,7 +54,9 @@ redirect_from:
 
 # 📄 代表作
 
-- **Chun-Zhong Li**, Xiao-Hua Yu, Xiao-Hua Wu, Bing Wang*, Tian-Yu Xia. "stDSGCL: Dual Spatially-Aware Graph Contrastive Learning for Identifying Spatial Domains in Spatial Transcriptomics",  will appear in BIBM 2025 （B1级）
+- Guohui Lan, Yashu Chen, **Chun-Zhong Li$^*$** and Jianming Wang. "Dynamic economic-entropy regulation of community-scale green gydrogen supply chains with carbon-microgrid coupling",  iScience 29, 115504, April 17, 2026 （CellPress 系列）
+
+- **Chun-Zhong Li**, Xiao-Hua Yu, Xiao-Hua Wu, Bing Wang*, Tian-Yu Xia. "stDSGCL: Dual Spatially-Aware Graph Contrastive Learning for Identifying Spatial Domains in Spatial Transcriptomics", 2025.12 （B1级）
 
 - Yang Gui, Zhaorui Tan, Yan Xu, **Chunzhong Li$^*$**, \"Heterogeneous graph contrastive learning for integration and alignment of spatial transcriptomics data", Briefings in Bioinformatics, Volume 26, Issue 5, September 2025, bbaf497.（A1级）
 
