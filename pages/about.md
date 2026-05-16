@@ -80,8 +80,6 @@ redirect_from:
 
 - Yu-Nong Zhang, **Chun-Zhong Li**, "Manifold clustering optimized by adaptive aggregation strategy". Knowledge and Information Systems, 65:379–408, 2023. (B2级)
 
-- 李春忠，靖稳峰，徐健. 基于多尺度信息融合的层次聚类算法[J], 工程数学学报，36(3): 245-254, 2019. (C级)
-
 - **Chun-Zhong Li**, Zong-Ben Xu, Chen Qiao, "Hierarchical clustering driven by cognitive features". Science China: Information Science, (doi: 10.1007/s11432-013-4858-x), 2014. (A1)
 
 - **Chun-Zhong Li**, Zong-Ben Xu, Tao Luo, "A heuristic hierarchical clustering based on multiple similarity measurements". Pattern Recognition Letters, 34(2), 155-162, 2013.(C级)
