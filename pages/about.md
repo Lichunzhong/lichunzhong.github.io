@@ -52,7 +52,7 @@ redirect_from:
 - [智能计算算法设计](https://blog.csdn.net/weixin_40234309/category_12220879.html)
 - [高维数据的稀疏低秩表达](https://blog.csdn.net/weixin_40234309/category_12116221.html)
 
-# 📄 代表作
+# 📄 近三年代表作
 
 - Guohui Lan, Yashu Chen, **Chun-Zhong Li*** and Jianming Wang. "Dynamic economic-entropy regulation of community-scale green gydrogen supply chains with carbon-microgrid coupling",  iScience 29, 115504, April 17, 2026 （CellPress 系列）
 
@@ -79,12 +79,6 @@ redirect_from:
 - Yong-Qi Hu, **Chun-Zhong Li***,  Yan Xu, "Modulation Recognition of optical and electromagnetic waves based on transfer learning". International Journal for Light and Electron Optics, vol. 29,  171359, 2023. [[Website]]([Modulation recognition of optical and electromagnetic waves based on transfer learning - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0030402623008562)) (C级)
 
 - Yu-Nong Zhang, **Chun-Zhong Li**, "Manifold clustering optimized by adaptive aggregation strategy". Knowledge and Information Systems, 65:379–408, 2023. (B2级)
-
-- **Chun-Zhong Li**, Zong-Ben Xu, Chen Qiao, "Hierarchical clustering driven by cognitive features". Science China: Information Science, (doi: 10.1007/s11432-013-4858-x), 2014. (A1)
-
-- **Chun-Zhong Li**, Zong-Ben Xu, Tao Luo, "A heuristic hierarchical clustering based on multiple similarity measurements". Pattern Recognition Letters, 34(2), 155-162, 2013.(C级)
-
-- **Chun-Zhong Li**, Zong-Ben Xu, Chen Qiao, "Agglomerative Hierarchical clustering with information feedback". Science China: Information Science, 42(6):730-742, 2012.（A1级）
 
 
 # 📖 教育背景
