@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-- 李春忠，安徽财经大学统计与应用数学学院，数据科学系副教授，硕士生导师，中国投入产出与大数据研究会常务理事、全国工业统计学教学研究会人工智能与大数据技术专委会理事、全国工业统计学教学研究会青年统计学家协会理事会理事。研究领域与方向为机器学习与深度学习算法、大数据高性能计算、生物信息等方面的研究。
+- 李春忠，安徽财经大学副教授，安徽省医保大数据研究院副院长，硕士生导师，博士毕业于西安交通大学，师从徐宗本院士，专注于机器学习算法研究。中国投入产出与大数据研究会常务理事、全国工业统计学教学研究会人工智能与大数据技术专委会理事、全国工业统计学教学研究会青年统计学家协会理事会理事、安徽省人工智能学会智慧医疗专委会委员。主持和参与国家自然科学、社会科学基金项目6项、省部级科学研究项目4项、在中国科学、briefings in bioinformatics、Pattern Recognition、iScience、Miccai、IEEE BIBM等期刊和国际会议发表论文三十余篇，长期从事人工智能算法（图神经网络、深度扩散模型、Transformer模型、对比学习、基于掩码机制的自监督学习、单细胞/空转大模型、矩阵张量分解等）及其应用研究。研究面向智慧医保、健康医疗、工业统计与公共治理等场景，强调以真实问题牵引模型设计，以高质量数据、严密评估和隐私安全机制提升模型稳健性与可落地性；在人才培养上，注重夯实学生的数学基础、编程能力、论文写作与工程实现水平，指导研究生围绕医学影像、组学数据、投入产出分析和多源异构大数据开展研究。
 
 - 李春忠老师长期从事人工智能算法（图神经网络、深度扩散模型、Transformer模型、对比学习、基于掩码机制的自监督学习、单细胞/空转大模型、矩阵张量分解等）及其应用研究。
 
@@ -32,8 +32,10 @@ redirect_from:
 
 # 🔔 最新学术动态
 
-- 2026.08: &nbsp; One paper is printed by _**2026 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)**_.
-- 2026.04: &nbsp; One papers is accepted by _**iScience(CellPress)**_. 
+- 2026.10: &nbsp; One papers is printed by _**MICCAI 2026**_.
+- 2026.11: &nbsp; Two papers will be printed by _**2026 IEEE BIBM**_.
+- 2026.11: &nbsp; One papers will be printed by _**IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**_.
+- 2026.12: &nbsp; One papers will be printed by _**Pattern Recognition**_. 
 
 
 # 🧰 Projects
@@ -54,6 +56,13 @@ redirect_from:
 
 # 📄 近三年代表作
 
+
+- Yuanhao Chen, Jingwen Chen, Jinyi Xu, Haoqi Yu1,Bin Wang1, **Chunzhong Li***, et al. "A Confounder-aware Representation Learning Framework for Alzheimer’s Disease Classification". MICCAI 2026. (医学图像计算顶级会议)
+
+- Xiaohua Yu, Changmiao Wang,Bing Wang*, **Chunzhong Li***, Yi Jiang, and Ahmed Elazab. "DVGRL: Adaptive Local-GlobalGraph Contrastive Learning for SpatialDomain Identification in SpatialTranscriptomics". IEEE BIBM 2026. (B1级)
+
+- Jianpeng Li, Bing Wang,Changmiao Wang*, Chunzhong Li*,Wenwen Min, and Ahmed Elazab. "stGdiff: Spatially Guided DiffusionTransformer for scRNA-seq-ReferencedSpatial Transcriptomics Imputation". IEEE BIBM 2026. (B1级)
+
 - Guohui Lan, Yashu Chen, **Chun-Zhong Li*** and Jianming Wang. "Dynamic economic-entropy regulation of community-scale green gydrogen supply chains with carbon-microgrid coupling",  iScience 29, 115504, April 17, 2026 （CellPress 系列）
 
 - **Chun-Zhong Li**, Xiao-Hua Yu, Xiao-Hua Wu, Bing Wang*, Tian-Yu Xia. "stDSGCL: Dual Spatially-Aware Graph Contrastive Learning for Identifying Spatial Domains in Spatial Transcriptomics", 2025.12 （B1级）
@@ -72,11 +81,7 @@ redirect_from:
 
 - **Chun-Zhong Li**,  Wen-Liang Ju, Shi-Wei Chu, "Design and application of a quality evaluation index system for sustaninable cultivation of big data professionals in universities based on bloom cognitive somain classification method". Discover Sustainability, 2024年7月（C级）
 
-- Wei-Qi Hua, Cheng-Lan Liu, **Chun-Zhong Li***. Environmental Regulation, Government-Business Relations, and Corporate Green Innovation: Evidence from Low-Carbon City Pilot Policy. Sustainability, 2024 （C级）
-
 - 徐健, 朱海龙, 朱江乐, *李春忠*. 基于物理信息神经网络的Burgers-Fisher方程求解方法. 浙江大学学报(工学版), 2023, 57(11): 2160-2169. (B1级)
-
-- Yong-Qi Hu, **Chun-Zhong Li***,  Yan Xu, "Modulation Recognition of optical and electromagnetic waves based on transfer learning". International Journal for Light and Electron Optics, vol. 29,  171359, 2023. [[Website]]([Modulation recognition of optical and electromagnetic waves based on transfer learning - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0030402623008562)) (C级)
 
 - Yu-Nong Zhang, **Chun-Zhong Li**, "Manifold clustering optimized by adaptive aggregation strategy". Knowledge and Information Systems, 65:379–408, 2023. (B2级)
 
@@ -92,6 +97,7 @@ redirect_from:
 ## 科研基金
 - 安徽省教育厅高校自然科学基金重点项目, 主持, 2020.01-2024.12
 - 国家自然科学基金青年项目, 主持, 2013.01-2016.12
+- 国家自然科学基金面上项目，融合功能网络重构与多维度特征学习的药物-靶标相互作用预测研究，2027.01-2030.12
 - 国家自然科学基金青年项目，Lévy过程驱动随机神经网络的镇定与鲁棒性，2018.01-2020.12
 - 国家哲学社会科学规划项目，16BGL044 ， 双重逻辑下新创企业的创新行为机制研究 ，2016.09-2019.09
 
