@@ -53,6 +53,7 @@ redirect_from:
 - [机器学习模型与实践](https://blog.csdn.net/weixin_40234309/category_12088843.html)
 - [智能计算算法设计](https://blog.csdn.net/weixin_40234309/category_12220879.html)
 - [高维数据的稀疏低秩表达](https://blog.csdn.net/weixin_40234309/category_12116221.html)
+- [大模型学习及入门](https://github.com/mad-forg/AI-LLM-Learning-Roadmap)
 
 # 📄 近三年代表作
 
@@ -61,7 +62,7 @@ redirect_from:
 
 - Xiaohua Yu, Changmiao Wang,Bing Wang*, **Chunzhong Li***, Yi Jiang, and Ahmed Elazab. "DVGRL: Adaptive Local-GlobalGraph Contrastive Learning for SpatialDomain Identification in SpatialTranscriptomics". IEEE BIBM 2026. (B1级)
 
-- Jianpeng Li, Bing Wang,Changmiao Wang*, Chunzhong Li*,Wenwen Min, and Ahmed Elazab. "stGdiff: Spatially Guided DiffusionTransformer for scRNA-seq-ReferencedSpatial Transcriptomics Imputation". IEEE BIBM 2026. (B1级)
+- Jianpeng Li, Bing Wang,Changmiao Wang*, **Chunzhong Li***,Wenwen Min, and Ahmed Elazab. "stGdiff: Spatially Guided DiffusionTransformer for scRNA-seq-ReferencedSpatial Transcriptomics Imputation". IEEE BIBM 2026. (B1级)
 
 - Guohui Lan, Yashu Chen, **Chun-Zhong Li*** and Jianming Wang. "Dynamic economic-entropy regulation of community-scale green gydrogen supply chains with carbon-microgrid coupling",  iScience 29, 115504, April 17, 2026 （CellPress 系列）
 
