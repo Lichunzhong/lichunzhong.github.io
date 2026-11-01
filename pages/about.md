@@ -30,6 +30,7 @@ redirect_from:
 - 有计算机、大数据学习背景的同学优先
 - <font color="red"> 感兴趣的同学可以给我邮件(czhongli@163.com)；邮件内容包括如下信息：个人简历+本科成绩单+考研成绩+复试成绩。 </font>
 
+<span class='anchor' id='-news'></span>
 # 🔔 最新学术动态
 
 - 2026.10: &nbsp; One papers is printed by _**MICCAI 2026**_.
@@ -46,7 +47,7 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TSVD_ToolBox"><img src="https://yubangzheng.github.io/images/tnntoolbox.png" width="250"></a>
 
 
-
+<span class='anchor' id='-courses'></span>
 # 📝 课程与博客
 
 - [PyTorch 深度学习](https://blog.csdn.net/weixin_40234309/category_12167779.html)
@@ -55,6 +56,7 @@ redirect_from:
 - [高维数据的稀疏低秩表达](https://blog.csdn.net/weixin_40234309/category_12116221.html)
 - [大模型学习及入门](https://github.com/mad-forg/AI-LLM-Learning-Roadmap)
 
+<span class='anchor' id='-publications'></span>
 # 📄 近三年代表作
 
 
@@ -82,13 +84,14 @@ redirect_from:
 
 - Yu-Nong Zhang, **Chun-Zhong Li**, "Manifold clustering optimized by adaptive aggregation strategy". Knowledge and Information Systems, 65:379–408, 2023. (B2级)
 
-
+<span class='anchor' id='-educations'></span>
 # 📖 教育背景
 
 - *2007.09-2012.09*: 西安交通大学 数学与统计学院、博士、导师: [Prof. Zong-Ben Xu (徐宗本教授/中国科学院院士)](https://math.xjtu.edu.cn/szdw/zgkxyys.htm)
 - *2004.09-2007.07*: 电子科技大学 应用数学学院、硕士，导师：[Prof. Ting-Zhu Huang (黄廷祝教授/全国教学名师)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
 - *2000.09-2004.07*: 聊城大学 数学科学学院、学士
 
+<span class='anchor' id='-fundings'></span>
 # 💾 基金
 
 ## 科研基金
@@ -106,12 +109,14 @@ redirect_from:
 - 校级重点教学研究项目，财经院校大数据理科专业课程体系及配套建设研究，主持，2020-2022
 - 校级重点教学研究项目，基于数据科学理念的大学数学基础课创新教育改革，主持，2020-2022
 
+<span class='anchor' id='-awards-and-honors'></span>
 # 🏆 获奖
 
 -  Top Ten Scientific Research Pioneers‌ (十大科研标兵), AUFE, 2014
 -  National Scholarship for Ph. D. student (博士研究生国家奖学金), XJTU, 2008
 -  First-Class Academic Scholarship (诺基亚-电信一等奖学金), UESTC, 2006
 
+<span class='anchor' id='-academic-activities'></span>
 # 🌐 学术活动
 
 ## 🎤 报告
