@@ -31,7 +31,7 @@ redirect_from:
 - <font color="red"> 感兴趣的同学可以给我邮件(czhongli@163.com)；邮件内容包括如下信息：个人简历+本科成绩单+考研成绩+复试成绩。 </font>
 
 <span class='anchor' id='-news'></span>
-# 🔔 最新学术动态
+# 🔔 最新学术动态 
 
 - 2026.10: &nbsp; One papers is printed by _**MICCAI 2026**_.
 - 2026.11: &nbsp; Two papers will be printed by _**2026 IEEE BIBM**_.
