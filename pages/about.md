@@ -72,6 +72,8 @@ redirect_from:
 
 - Yang Gui, Zhaorui Tan, Yan Xu, **Chunzhong Li***. "Heterogeneous graph contrastive learning for integration and alignment of spatial transcriptomics data", Briefings in Bioinformatics, Volume 26, Issue 5, September 2025, bbaf497.（A1级）
 
+- Wang, Hu , **Li Chunzhong**, Yanmin Wang, Huanming Zhang. "Bacterial Species in Engineered Living Materials: Strategies and Future Directions." #i{Microbial Biotechnology} 18.5(2025):e70164. (B1级)
+
 - **Chun-Zhong Li**, Shuo-Bing Zhou, Yang-Yang Kou. "Tensor low rank and noise intensity aware hyperspectral image denoising", IEEE IGARSS 2025. （B1级）
 
 - **李春忠***, 周硕兵, 口洋洋, 靖凯立. 双自适应权重非负矩阵分解鲁棒半监督学习. 工程数学学报,  2025. （CSCD）
