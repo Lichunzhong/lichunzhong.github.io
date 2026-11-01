@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chun-Zhong Li (李春忠) | AUFE"
-description              : "<br>"
+description              : "Associate Professor at Anhui University of Finance and Economics. Research interests: machine learning, graph neural networks, spatial transcriptomics, and medical imaging."
 repository               : "Lichunzhong/lichunzhong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,8 +28,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ"
-  email            : 
-  researchgate     : "https://www.researchgate.net/profile/Yu-Bang-Zheng-2"
+  email            : "czhongli@163.com"
+  researchgate     : ""
   url              : 
   bitbucket        :
   codepen          :
@@ -65,6 +65,9 @@ include:
   - _pages
   - files
 exclude:
+  - codes
+  - papers
+  - run_server.sh
   - docs
   - google_scholar_crawler
   - "*.sublime-project"
@@ -161,3 +164,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+url: "https://lichunzhong.github.io"
+baseurl: ""
